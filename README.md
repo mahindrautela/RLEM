@@ -4,7 +4,7 @@ Note: Read the details of the project are given below. The code is currently und
 ##### 
 
 <p align="center">
-  <img src="images/model.PNG" width="450" height="260" />
+  <img src="images/model.png" width="450" height="260" />
 </p>
 
 ##### This repository contains codes accompanying the [paper](https://arxiv.org/abs/). 
