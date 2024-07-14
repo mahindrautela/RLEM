@@ -1,4 +1,4 @@
-# CLARM 
+# rLEM
 Note: Read the details of the project are given below. The code is currently under scrutiny.
 ### Reverse latent evolution for time-inversion of spatiotemporal dynamics
 ##### 
