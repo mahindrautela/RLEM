@@ -10,5 +10,4 @@ Note: Read the details of the project are given below. The code is currently und
 
 - VAE's latent space encodes the aleatoric uncertainty of the higher-dimensional input dataset. This uncertainity can be propgated through the temporal learner to predict upstream fields with uncertainty bounds.
 
-##### 
-This repository contains codes accompanying the [paper](https://arxiv.org/abs/). The dataset accompying the paper is available at Zenodo.  <a href="https://doi.org/10.5281/zenodo.10819001"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10819001.svg" alt="DOI"></a>
+- This repository contains codes accompanying the [paper](https://arxiv.org/abs/). The dataset accompying the paper is available at Zenodo.  <a href="https://doi.org/10.5281/zenodo.10819001"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.10819001.svg" alt="DOI"></a>
