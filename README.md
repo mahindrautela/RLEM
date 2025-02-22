@@ -1,4 +1,4 @@
-# rLEM
+# RLEM
 Note: Read the details of the project are given below. The code is currently under scrutiny for open-source at LANL.
 ### Reverse latent evolution model (rLEM) for time-inversion of spatiotemporal dynamics
 ##### 
